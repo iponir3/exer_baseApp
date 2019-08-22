@@ -3,7 +3,6 @@
   <name> exer_BaseApp </name>
   <description>This is the best app ever.</description>
   <author email="info@myapp.com" href="http://www.myapp.com">Amazing App Team</author>
-  <preference name="phonegap-version" value="cli-6.3.0" />
   <preference name="permissions" value="none" />
   <preference name="orientation" value="portrait" />
   <preference name="target-device" value="universal" />
@@ -13,6 +12,4 @@
   <plugin name="cordova-plugin-device" spec="1.1.2" />
   <plugin name="cordova-plugin-splashscreen" spec="3.2.2" />
 
-  <icon src="icon.png" />
-  <splash src="splash.png" />
 </widget>
