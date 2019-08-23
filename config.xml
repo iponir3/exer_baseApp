@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.myapp.mobile" version="2.25" xmlns="http://www.w3.org/ns/widgets">
   <name> exer_BaseApp </name>
-  <description>This is the best app ever.</description>
+  <description>PhoneGap deployment of base application for exercere</description>
   <author email="info@myapp.com" href="http://www.myapp.com">Amazing App Team</author>
   <preference name="permissions" value="none" />
   <preference name="orientation" value="portrait" />
